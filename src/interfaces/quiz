@@ -1,0 +1,13 @@
+1. To create a decoupled code, remove ties between classes and allow for easier testing and
+extending or replacing parts of code
+2. tightly coupled code is a code that when changed in one place requires changes or recompilation
+in completely business unrelated other parts of code
+3. tightly coupled as TaxReport method creates new instance of other class directly
+4. dependency injection is how we insert other instances of classes into class
+5. constructor injection, method injection, setter injection
+6. interface segregation principle
+7. it creates coupled code and contradicts interfaces purpose as contracts not implementation
+8. both creates a boilerplate to implement in newly created classes. can define a set of rules
+and methods
+Interfaces should only describe behaviour, abstract classes can implement some parts of behaviour
+9. No, only if it makes sense, meaning only when class is coupled

@@ -1,10 +1,7 @@
-package com.codewithmosh;
+package basics.codewithmosh;
 
-import javax.management.NotCompliantMBeanException;
 import java.awt.*;
-import java.text.FieldPosition;
 import java.text.NumberFormat;
-import java.text.ParsePosition;
 import java.util.Arrays;
 import java.util.Date;
 import java.util.Scanner;

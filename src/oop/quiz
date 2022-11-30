@@ -1,0 +1,18 @@
+1. b
+2. false
+3. returns id that is calculated based on the address of the object in memory
+4. constructor without any parameters
+5. a
+6. super() calls parent class constructor
+7. private restricts usage everywhere, protected restrict usage outside of package and subclasses
+8. it's public in package
+9. method overriding changes method implementation, it does not change method signature like method overriding
+10. it notifies compiler that method is overriden and check it's signature in parent class
+11. cause subclasses have all te same fields and methods as parent objects plus more
+12. instanceof tells if an object is of derivative of some class
+13. encapsulation, abstraction, inheritance, polymorphism
+14. when defining a class that should not be instantiated, only as a boilerplate code
+15. yes
+16. with classes that should not be subclassed, with complicated code structure that should not be messed with
+17. multiple inheritance issue
+18. no

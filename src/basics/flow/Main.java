@@ -1,4 +1,4 @@
-package com.control.flow;
+package basics.flow;
 
 import java.text.NumberFormat;
 import java.util.Scanner;
